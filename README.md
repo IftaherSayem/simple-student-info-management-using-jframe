@@ -3,3 +3,5 @@ A simple project  using Jframe in which we can add student info. we also use Mys
 
 
 ![Alt text](Student-info1.png)
+
+![Alt text](Mysql-Stored-Data-Table.png)
